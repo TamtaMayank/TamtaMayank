@@ -73,6 +73,7 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
 - *Platforms:* Linux distributions (Ubuntu, CentOS)
 - *Other:* VS Code, Markdown, Networking basics
 
+  
 ## 📂 Projects
 
 [Check out my repositories »](https://github.com/TamtaMayank?tab=repositories)
