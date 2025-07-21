@@ -25,12 +25,14 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
 ## 🌐 Socials
 
 <p align="left">
- <a>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-tamta-b1b443279/
- </a>
- <a>https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamtastic.bass
- </a>
-  
+  <a href="https://linkedin.com/in/mayank-tamta-b1b443279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tamtastic.bass" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
+
 
 ---
 
