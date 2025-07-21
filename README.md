@@ -2,15 +2,6 @@
 
 <h1 align="center">Hi, I'm Mayank Tamta 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-tamta-b1b443279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/tamtastic.bass" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-</p>
-
 ---
 
 ## 💻 About Me
@@ -29,6 +20,52 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   - Contribute to open-source DevOps communities
   - Build and share projects that bridge development and operations
 
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-tamta-b1b443279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tamtastic.bass" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" alt="CSS3"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" alt="C"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  </a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" alt="RHEL"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Technologies & Tools
 
 - *Cloud:* AWS (EC2, S3, IAM, Lambda, etc.)
@@ -40,19 +77,6 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
 ## 📂 Projects
 
 [Check out my repositories »](https://github.com/TamtaMayank?tab=repositories)
-
----
-
-## 📫 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mayank-tamta-b1b443279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/tamtastic.bass" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
