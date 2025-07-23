@@ -40,6 +40,9 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" alt="HTML5"/>
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" alt="CSS3"/>
   </a>
