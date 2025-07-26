@@ -67,10 +67,6 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
-  <a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/MobaXterm_Logo.png" alt="MobaXterm" height="50"/>
-  </a>
-
 </p>
 
 ---
