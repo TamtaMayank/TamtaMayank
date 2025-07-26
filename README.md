@@ -52,6 +52,9 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="60"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   </a>
