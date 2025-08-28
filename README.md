@@ -71,7 +71,7 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" width="40" alt="Git"/>
   </a>
    <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://www.pngwing.com/en/search?q=ubuntu+Logo" width="40" alt="Ubuntu"/>
+    <img src="https://www.pngwing.com/en/free-png-ahosw" width="40" alt="Ubuntu"/>
   </a>
 </p>
 
