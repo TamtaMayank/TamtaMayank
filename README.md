@@ -79,11 +79,11 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
 
 ## 🚀 Technologies & Tools
 
-- *Cloud:* AWS (EC2, S3, IAM, Lambda, etc.)
+- *Cloud:* AWS 
 - *DevOps:* Docker, Git, GitHub Actions
 - *Scripting:* Bash, Python (beginner)
-- *Platforms:* Linux distributions (Ubuntu, CentOS)
-- *Other:* VS Code, Markdown, Networking basics
+- *Platforms:* Linux distributions (Ubuntu)
+- *Other:* VS Code, Networking , MobaXterm, VimEditor
 
 ---
 
