@@ -68,7 +68,7 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="60"/>
   </a>
    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" alt="CSS3"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" width="40" alt="CSS3"/>
   </a>
 </p>
 
