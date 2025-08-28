@@ -49,7 +49,7 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   </a>
-  <a href="https://devdocs.io/c/" target="_blank">
+  <a href="https://www.c-language.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
