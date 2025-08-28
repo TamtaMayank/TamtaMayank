@@ -73,6 +73,9 @@ Currently, I'm on a journey to deepen my expertise in *Linux* and *AWS Cloud* wh
    <a href="https://ubuntu.com/" target="_blank">
     <img src="https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png" width="40" alt="Ubuntu"/>
   </a>
+   <a href="https://mobaxterm.mobatek.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" width="40" alt="MobaXterm"/>
+  </a>
 </p>
 
 ---
